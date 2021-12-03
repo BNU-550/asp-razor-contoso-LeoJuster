@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SUCCESS TEMPLE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SUCCESS TEMPLE\\.nuget\\packages"
+    ]
+  }
+}
